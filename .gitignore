@@ -12,6 +12,8 @@ client/node_modules/*
 dist/
 web-build/
 expo-env.d.ts
+client/ios
+client/android
 
 # Native
 *.orig.*
